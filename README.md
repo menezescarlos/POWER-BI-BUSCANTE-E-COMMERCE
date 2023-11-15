@@ -1,6 +1,5 @@
-# POWER-BI
+# Projeto: Buscante E-commerce - 2023
 
-Projeto Buscante E-commerce
 Portfolio de Power BI
 
 - Uso de Cartões
